@@ -3,7 +3,7 @@ import random
 import sys
 import time
 
-# --- Configuración ---
+#Configuración
 WIDTH, HEIGHT = 800, 600  
 FONT_SIZE = 16
 COLOR = (0, 255, 0)
